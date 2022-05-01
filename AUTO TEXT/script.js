@@ -1,4 +1,4 @@
-const text="this is auto text and its cool *";
+const text="I LOVE YOU ANU*";
 
 let index=0;
 function write(){
